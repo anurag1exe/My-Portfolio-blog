@@ -20,29 +20,6 @@ This portfolio is built with modern web technologies to ensure a fast, responsiv
 - **Modern UI Components:** Custom interactive hover buttons and subtle entrance animations.
 - **Performance Optimized:** Built on Next.js 15+ leveraging the latest Turbopack compiler.
 
-## 🚀 Getting Started
-
-If you want to run this project locally to check out the code:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/anurag1exe/My-Portfolio-blog.git
-   cd My-Portfolio-blog
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
-
-4. **View the site:**
-   Open [http://localhost:3000](http://localhost:3000) in your browser.
-
 ## 📫 Connect with me
 
 - **GitHub:** [@anurag1exe](https://github.com/anurag1exe)
